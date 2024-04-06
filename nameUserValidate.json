@@ -1,0 +1,22 @@
+[
+    {
+      "iterationValidationData":
+        {
+          "email1": "notEmail",
+          "email2": "name@gmail.c",
+          "email3": "!@#@mailcom",
+          "email4": "vgh@123"
+        },
+        "BaseURL": "https://qauto.forstudy.space/"
+      },
+      {
+        "iterationValidationData":
+          {
+            "email1": "notEmail",
+            "email2": "name@gmail.c",
+            "email3": "!@#@mailcom",
+            "email4": "vgh@123"
+          },
+          "BaseURL": "https://qauto2.forstudy.space/"
+        }
+  ]
